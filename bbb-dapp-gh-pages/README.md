@@ -1,10 +1,10 @@
-# BRS DApp (BTD / BTB) — GitHub Pages
+# BBB DApp (BTD / BTB) — GitHub Pages
 
-A single-file DApp for BRS system: connect wallet (MetaMask), mint/burn BTD, burn BTB, rebase both tokens, and set prices/annual rate via Config.
+A single-file DApp for BBB system: connect wallet (MetaMask), mint/burn BTD, burn BTB, rebase both tokens, and set prices/annual rate via Config.
 This repo is **ready for GitHub Pages**.
 
 ## Quick Start (GitHub UI)
-1. Create a **new public repo** on GitHub, e.g. `brs-dapp`.
+1. Create a **new public repo** on GitHub, e.g. `BBB-dapp`.
 2. Download the ZIP from ChatGPT and unzip it.
 3. Drag & drop all files into the GitHub repo (Upload files) and commit.
 4. Open **Settings → Pages**:
@@ -17,7 +17,7 @@ This repo is **ready for GitHub Pages**.
 ```bash
 git init
 git add .
-git commit -m "Publish BRS DApp to GitHub Pages"
+git commit -m "Publish BBB DApp to GitHub Pages"
 git branch -M main
 git remote add origin https://github.com/<your-username>/<repo>.git
 git push -u origin main
