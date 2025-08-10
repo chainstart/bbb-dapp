@@ -1,6 +1,6 @@
-# BBB DApp (BTD / BTB) — GitHub Pages
+# BBB DApp (  / ) — GitHub Pages
 
-A single-file DApp for BBB system: connect wallet (MetaMask), mint/burn BTD, burn BTB, rebase both tokens, and set prices/annual rate via Config.
+A single-file DApp for BBB system: connect wallet (MetaMask), mint/burn  , burn , rebase both tokens, and set prices/annual rate via Config.
 This repo is **ready for GitHub Pages**.
 
 ## Quick Start (GitHub UI)
